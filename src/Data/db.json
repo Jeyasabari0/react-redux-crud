@@ -1,18 +1,18 @@
 {
   "user": [
     {
-      "id": 1,
-      "name": "adminuser",
-      "email": "admin@in.com",
-      "phone": "1234567890",
-      "role": "Admin"
+      "name": "Sabari",
+      "email": "sabi@gamil.com",
+      "phone": "9977544321",
+      "role": "Admin",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "soman",
-      "email": "soms@email.com",
-      "phone": "9876543215",
-      "role": "Admin"
+      "name": "sathish",
+      "email": "sathish@gmail.com",
+      "phone": "8898765373",
+      "role": "Staff",
+      "id": 2
     }
   ]
 }
